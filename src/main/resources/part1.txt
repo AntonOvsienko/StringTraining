@@ -3,3 +3,4 @@ ivanov;Ivan Ivanov;ivanov@mail.com
 petrov;Petr Petrov;petrov@google.com
 obama;Barack Obama;obama@google.com
 bush;Jorge Bush;bush@mail.com
+anton;Antonio Luppi;antonio@gmail.com
